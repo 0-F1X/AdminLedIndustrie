@@ -2,8 +2,10 @@ s:root {
   scroll-behavior: smooth;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Poppins', sans-serif;
   background: #f6f9ff;
   color: #444444;
 }
@@ -16,15 +18,6 @@ a {
 a:hover {
   color: #717ff5;
   text-decoration: none;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Nunito", sans-serif;
 }
 
 /*--------------------------------------------------------------
